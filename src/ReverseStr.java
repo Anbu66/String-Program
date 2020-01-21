@@ -19,6 +19,6 @@ public class ReverseStr {
 
 //https://www.journaldev.com/20819/string-programs-in-java
 
-//For GOPIINATH and ANBU
+//For GOPIINATH and ANBU1
 
 //again i do that
